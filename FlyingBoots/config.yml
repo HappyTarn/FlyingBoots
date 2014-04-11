@@ -1,0 +1,9 @@
+# CoatingObsidian Configuration file
+#==================#
+#   Basic Config   #
+#==================#
+# それぞれの速さ
+LEATHER_SPEED: 0
+GOLD_SPEED: 0.2
+IRON_SPEED: 0.1
+DIAMOND_SPEED: 0.3

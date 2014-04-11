@@ -1,0 +1,13 @@
+name: FlyingBoots
+main: com.happytarn.FlyingBoots.Main
+version: 1.0
+author: HappyTarn
+commands:
+    flyingboots:
+      usage: /co help - to see the help
+      aliases: [fb]
+      description: To see the FlyingBoots help.
+permissions:
+    hapitanCmd.flyingboots.admin:
+        default: op
+        description: Can FlyingBoots Reload.
